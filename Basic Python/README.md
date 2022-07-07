@@ -4,6 +4,7 @@
 
 ## Hello World:
 
+* This is how we run the application in our terminal:
 ![helloWorld](/Basic%20Python/Images/helloWorld.png)
 
 ---
@@ -16,3 +17,10 @@
 * In the following example of input function this is what is displayed:
   
     ![inputFunction2](/Basic%20Python/Images/inputFunction2.png)
+
+---
+## Variables
+
+* This is the display of the variables:
+  
+    ![Variables1](/Basic%20Python/Images/Variables1.png)
